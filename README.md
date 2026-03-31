@@ -6,7 +6,7 @@ This project demonstrates a comprehensive data engineering pipeline, from raw da
 
 ## 🏗️ Pipeline Architecture
 
-[Pipeline Architecture](./project/assets/img/architecture.png)
+[Pipeline Architecture](project/assets/img/architecture.png)
 
 The data flows through a structured multi-layer architecture (Medallion Architecture) within BigQuery:
 
